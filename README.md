@@ -93,6 +93,7 @@ Only for location-based reminders, and only if you set one up. If you never use 
 
 🔒 Privacy
 
-Your documents are yours. They stay on your device, or wherever you choose to move them. Full details are in the Privacy Policy.
+Your documents are yours. They stay on your device, or wherever you choose to move them. Full details are in the Privacy Policy at:
+https://github.com/RazzleDazzleBazzle/TabPad/blob/main/PrivacyPolicy
 
 © 2026 Darren B Wilson. All rights reserved.
