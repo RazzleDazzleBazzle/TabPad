@@ -1,5 +1,5 @@
 # TabPad
-iOS iPADos application for text editing
+iOS iPadOS application for text editing
 
 TabPad Support
 
